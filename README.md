@@ -55,4 +55,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathan-lejeune-code&show_icons=true&locale=en" alt="jonathan-lejeune-code" /></p>
+<!-- <p>&nbsp;<img align="center" src="https:/jonathan-lejeune-code.vercel.app/api/?username=jonathan-lejeune-code&show_icons=true&locale=en&count_private=true" alt="jonathan-lejeune-code" /></p> -->
