@@ -55,4 +55,5 @@
 
 
 
-<!-- <p>&nbsp;<img align="center" src="https:/jonathan-lejeune-code.vercel.app/api/?username=jonathan-lejeune-code&show_icons=true&locale=en&count_private=true" alt="jonathan-lejeune-code" /></p> -->
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/?username=jonathan-lejeune-code&show_icons=true&locale=en&count_private=true" alt="jonathan-lejeune-code" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6" /></p>
